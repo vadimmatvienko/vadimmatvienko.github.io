@@ -120,3 +120,8 @@
 		vertical-align: top;
 	}
 }
+@media all and (max-width: 800px) {
+	.online_help {
+		display: none;
+	}
+}
