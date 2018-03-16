@@ -1,0 +1,84 @@
+@media all and (max-width: 1220px) {
+	@charset "<Internet Explorer 11 and Microsoft Edge>"; _:-ms-lang(x),
+	#product_tab_1_1:checked ~ .controls_tab_1 label:nth-child(2),
+	#product_tab_1_2:checked ~ .controls_tab_1 label:nth-child(3),
+	#product_tab_1_3:checked ~ .controls_tab_1 label:nth-child(4),
+	#product_tab_1_4:checked ~ .controls_tab_1 label:nth-child(5),
+	#product_tab_1_5:checked ~ .controls_tab_1 label:nth-child(1) {
+		position: absolute;
+		margin: 100px 0 0 95%; 
+		display: block;
+	}
+}
+@media all and (max-width: 1100px) {
+	.first_slider {
+		width: 54%;
+	}
+	.shares {
+		margin-right: 50px;
+	}
+	.page_slider_1 {
+		background: url(https://image.ibb.co/kGbU7x/first_slider_1000px.png) no-repeat;
+	}
+	.product {
+		min-width: 9%;
+    	margin-left: -6px;
+    	margin-right: 85px;
+    	margin-bottom: 30px;
+	}
+#product_tab_1_1:checked ~ #overflow_1 .articles_tab_1{
+	margin-left: 0;
+}
+
+#product_tab_1_2:checked ~ #overflow_1 .articles_tab_1{
+	margin-left: -25%;
+}
+
+#product_tab_1_3:checked ~ #overflow_1 .articles_tab_1{
+	margin-left: -50%;
+}
+
+#product_tab_1_4:checked ~ #overflow_1 .articles_tab_1{
+	margin-left: -75%;
+}
+
+#product_tab_1_5:checked ~ #overflow_1 .articles_tab_1{
+	margin-left: -100%;
+}
+@charset "<Internet Explorer 11 and Microsoft Edge>"; _:-ms-lang(x),
+#product_tab_1_1:checked ~ .controls_tab_1 label:nth-child(2),
+#product_tab_1_2:checked ~ .controls_tab_1 label:nth-child(3),
+#product_tab_1_3:checked ~ .controls_tab_1 label:nth-child(4),
+#product_tab_1_4:checked ~ .controls_tab_1 label:nth-child(5),
+#product_tab_1_5:checked ~ .controls_tab_1 label:nth-child(1) {
+	position: absolute;
+	margin: 100px 0 0 95%; 
+	display: block;
+}
+}
+@media all and (max-width: 1000px) {
+	nav ul li a {
+		font-size: 100%;
+	}
+	.first_slider {
+		width: 59%;
+	}
+	.shares {
+		margin: 0 0 0 20px;
+	}
+.mfr_2 {
+	margin-top: 0;
+}
+.mfr_2 ul {
+		margin-top: 30px;
+	}
+.mfr_3 {
+	margin-top: 0;
+}
+.mfr_3 ul {
+		margin-top: 30px;
+	}
+}
+table tr td {
+	vertical-align: top;
+}
